@@ -1,17 +1,44 @@
 # Latency-Throughput-Measurements
 
-# Latency + Throughput Measurements (Task 2 + Task 3)
+# Network Measurements Project (Latency + Throughput)
 
 This repository contains the full implementation for:
-- **Task 2**: Basic latency measurements (ping + curl + dig)
-- **Task 3**: Throughput measurements (iperf3 TCP)
+- Basic latency measurements (ICMP + TCP connect + DNS query time)
+- Throughput measurements (TCP throughput using iperf3)
 
-The measurements were collected using:
-- **Ubuntu 22.04 VM** 
-- **Aalto Linux server `lyta`** 
+Measurements were collected using:
+- **Ubuntu 22.04 VM** (user: `altuwai`)
+- **Aalto Linux server `lyta`** (user: `altuwa1`)
 
+Student ID: ****  
+ccTLD (from `mycountry`): **ch** (Switzerland)
 
 ---
 
-## Repository structure
+# Tools, Languages, and Software Used
+
+## Operating Systems
+- Ubuntu 22.04.5 LTS (VM)
+- Aalto Linux server (`lyta`)
+
+## Languages
+- **Bash** (automation scripts)
+- **Python 3** (log parsing + statistics)
+
+## Network tools used
+- `ping` (ICMP RTT measurement)
+- `curl` (TCP connect latency measurement)
+- `dig` (DNS query time measurement)
+- `iperf3` (TCP throughput measurement)
+- `cron` / `crontab` (automation / scheduling)
+
+## Other system tools
+- `nano` (editing scripts)
+- `tail`, `head`, `grep`, `ls` (log checking)
+
+---
+
+# Repository structure
+
+
 
