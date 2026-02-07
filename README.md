@@ -7,11 +7,11 @@ This repository contains the full implementation for:
 - Throughput measurements (TCP throughput using iperf3)
 
 Measurements were collected using:
-- **Ubuntu 22.04 VM** (user: `altuwai`)
-- **Aalto Linux server `lyta`** (user: `altuwa1`)
+- **Ubuntu 22.04 VM** (user: `***`)
+- **Aalto Linux server `lyta`** (user: `***`)
 
 Student ID: ****  
-ccTLD (from `mycountry`): **ch** (Switzerland)
+ccTLD (from `mycountry`): **ch** (***)
 
 ---
 
