@@ -38,7 +38,6 @@ ccTLD (from `mycountry`): **ch** (***)
 
 ---
 
-# Repository structure
 
 
 
